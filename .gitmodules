@@ -1,0 +1,6 @@
+[submodule "repose_playground_frontend"]
+	path = repose_playground_frontend
+	url = git@github.com:rackerlabs/repose_playground_frontend
+[submodule "repose_playground_api"]
+	path = repose_playground_api
+	url = git@github.com:rackerlabs/repose_playground_api
